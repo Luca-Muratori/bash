@@ -1,21 +1,6 @@
 Easy Exercises:
 
 
-
-String Manipulation: Write a script that:
-
-Prompts the user for their name.
-
-Converts the name to uppercase and store it in a variable.
-
-Prints a greeting message using the stored name.
-
-Counts the number of characters in the name and displays it.
-
-Extracts the first letter of the name and displays it.
-
-
-
 Conditional Statements: Write a script that:
 
 Prompts the user for a number.
