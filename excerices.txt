@@ -1,0 +1,102 @@
+Easy Exercises:
+
+
+
+String Manipulation: Write a script that:
+
+Prompts the user for their name.
+
+Converts the name to uppercase and store it in a variable.
+
+Prints a greeting message using the stored name.
+
+Counts the number of characters in the name and displays it.
+
+Extracts the first letter of the name and displays it.
+
+
+
+Conditional Statements: Write a script that:
+
+Prompts the user for a number.
+
+Checks if the number is even or odd and displays an appropriate message.
+
+Checks if the number is greater than 10, less than 10, or equal to 10 and displays different messages accordingly.
+
+
+
+Loops: Write a script that:
+
+Iterates from 1 to 10 and prints each number.
+
+Iterates through a list of names (hardcoded or user-provided) and prints each name.
+
+Creates a file called "numbers.txt" and writes numbers from 1 to 20 inside it, one per line.
+
+
+
+Basic Utilities: Write a script that:
+
+Uses the df command to display disk usage information and parses the output to extract free space on a specific partition.
+
+Uses the ps command to list running processes and count the number of processes owned by a specific user.
+
+
+
+//////////////////////////////////////////////////////////////////////////
+
+
+
+Intermediate Exercises:
+
+
+
+Command-Line Arguments: Write a script that:
+
+Takes arguments from the command line and combines them into a single string.
+
+Takes a directory name as an argument and recursively searches for all files with a specific extension.
+
+Takes two numbers as arguments and performs basic arithmetic operations like addition, subtraction, multiplication, and division based on a third argument.
+
+
+
+Functions: Write a script that:
+
+Defines a function to check if a number is prime.
+
+Defines a function to convert Celsius to Fahrenheit and vice versa.
+
+Defines a function to print a random quote from a file.
+
+
+
+File Processing: Write a script that:
+
+Reads lines from a file and counts the number of lines, words, and characters.
+
+Modifies a file by replacing all occurrences of a specific word with another word.
+
+Extracts specific information (e.g., name, email) from a CSV file and stores it in variables.
+
+
+
+Regular Expressions: Write a script that:
+
+Validates an email address format using regular expressions.
+
+Extracts URLs from a webpage content.
+
+Replaces all phone numbers in a file with a standardized format.
+
+
+
+Error Handling: Write a script that:
+
+Checks if a specific file exists and displays an error message if not.
+
+Validates user input and provides guidance if invalid.
+
+Uses set -e option to exit the script on any command error and handle the termination gracefully.
+
